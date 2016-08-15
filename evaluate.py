@@ -158,7 +158,6 @@ def main():
     print "WordSim Similarity score and coverage:", c2, cov2
     print "WordSim Relatedness score and coverage:", c3, cov3, "\n"
     
-    print " "
 if __name__=='__main__':
     main()
 

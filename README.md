@@ -1,5 +1,4 @@
 # Tool for Evaluating Multilingual WS-353 and SimLex-999
-Nikola Mrkšić (nm480@cam.ac.uk)
 
 Multilingual versions of WordSim-353 and SimLex-999 datasets are a valuable new resource for evaluating word vector spaces. A full description of the datasets can be found on their [webpage](http://technion.ac.il/~ira.leviant/MultilingualVSMdata.html). 
 
